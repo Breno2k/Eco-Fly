@@ -1,14 +1,14 @@
 {
-  "name": "clumsy-bird",
+  "name": "eco-fly",
   "version": "0.1.0",
-  "description": "Clumsy Bird - A MelonJS port of the famous Flappy Bird game",
-  "homepage": "http://ellisonleao.github.io/clumsy-bird/",
+  "description": "Eco-Fly, meu clone do Flappy Bird usando MelonJS.",
+  "homepage": "https://breno2k.github.io/Eco-Fly/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellisonleao/clumsy-bird"
+    "url": "https://github.com/Breno2k/Eco-Fly"
   },
   "bugs": {
-    "url": "https://github.com/ellisonleao/clumsy-bird/issues"
+    "url": "https://github.com/Breno2k/Eco-Fly/issues"
   },
   "licenses": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "author": {
-    "name": "Ellison Leão",
-    "email": "ellisonleao@gmail.com"
+    "name": "Breno Melo",
+    "email": "brenolucasmelo@gmail.com"
   },
   "engines": {
     "node": ">= 0.8.0"
